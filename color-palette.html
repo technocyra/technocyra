@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TECHNOCYRA Corporate Color Palette</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Montserrat:wght@400;600&display=swap');
+
+        body {
+            background-color: #0F172A; /* Technocyra Deep Void */
+            color: #F8FAFC; /* Technocyra White */
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        h1 {
+            font-family: 'Roboto', sans-serif;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-family: 'Roboto', sans-serif;
+            color: #94A3B8;
+            margin-bottom: 50px;
+        }
+
+        .palette-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            max-width: 1000px;
+        }
+
+        .color-card {
+            background-color: #1E293B;
+            border-radius: 12px;
+            width: 200px;
+            padding: 15px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            text-align: center;
+            transition: transform 0.2s;
+        }
+
+        .color-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .color-swatch {
+            height: 100px;
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .color-name {
+            font-weight: 700;
+            font-size: 1.1rem;
+            margin-bottom: 5px;
+            display: block;
+        }
+
+        .hex-code {
+            font-family: 'Roboto Flex', monospace; /* Code Accent Font */
+            color: #94A3B8;
+            font-size: 0.9rem;
+            background: rgba(0,0,0,0.2);
+            padding: 4px 8px;
+            border-radius: 4px;
+        }
+
+        .usage-tag {
+            font-size: 0.8rem;
+            margin-top: 10px;
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+
+        /* Color Definitions */
+        .swatch-void { background-color: #0F172A; }
+        .swatch-core { background-color: #3B82F6; }
+        .swatch-neon { background-color: #06B6D4; }
+        .swatch-steel { background-color: #64748B; }
+        .swatch-white { background-color: #F8FAFC; border: 1px solid #ddd;}
+        .swatch-success { background-color: #10B981; }
+    </style>
+</head>
+<body>
+
+    <img src="assets/main-logo.png" alt="Technocyra Logo" title="Technocyra Logo" style="width: 200px; height: auto; margin-bottom: 5px;">
+
+    <h1>TECHNOCYRA</h1>
+    <div class="subtitle">OFFICIAL CORPORATE COLOR PALETTE</div>
+
+    <div class="palette-container">
+        
+        <div class="color-card">
+            <div class="color-swatch swatch-void"></div>
+            <span class="color-name">Deep Void</span>
+            <span class="hex-code">#0F172A</span>
+            <span class="usage-tag">Backgrounds / Security</span>
+        </div>
+
+        <div class="color-card">
+            <div class="color-swatch swatch-core"></div>
+            <span class="color-name">Core Blue</span>
+            <span class="hex-code">#3B82F6</span>
+            <span class="usage-tag">Trust / Primary Buttons</span>
+        </div>
+
+        <div class="color-card">
+            <div class="color-swatch swatch-neon"></div>
+            <span class="color-name">Neon Cyan</span>
+            <span class="hex-code">#06B6D4</span>
+            <span class="usage-tag">Innovation / AI / Highlights</span>
+        </div>
+
+        <div class="color-card">
+            <div class="color-swatch swatch-steel"></div>
+            <span class="color-name">Tech Steel</span>
+            <span class="hex-code">#64748B</span>
+            <span class="usage-tag">Subtitles / Dividers</span>
+        </div>
+
+        <div class="color-card">
+            <div class="color-swatch swatch-white"></div>
+            <span class="color-name" style="color: #0F172A; background: #fff; padding: 2px 5px; border-radius: 3px;">Pure Light</span>
+            <span class="hex-code">#F8FAFC</span>
+            <span class="usage-tag">Primary Text</span>
+        </div>
+
+        <div class="color-card">
+            <div class="color-swatch swatch-success"></div>
+            <span class="color-name">Active Green</span>
+            <span class="hex-code">#10B981</span>
+            <span class="usage-tag">Success / Online Status</span>
+        </div>
+
+    </div>
+
+    <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #64748B;">
+        <caption style="padding: 15px; font-size: 18px; font-weight: bold; background-color: #0F172A; color: #F8FAFC; border-bottom: 2px solid #3B82F6;">TECHNOCYRA CORPORATE COLOR PALETTE</caption>
+        
+        <thead>
+            <tr style="background-color: #1E293B; color: #F8FAFC;">
+                <th style="padding: 10px; border: 1px solid #64748B; text-align: left; width: 25%;">COLOR NAME</th>
+                <th style="padding: 10px; border: 1px solid #64748B; text-align: center; width: 15%;">SWATCH</th>
+                <th style="padding: 10px; border: 1px solid #64748B; text-align: center; width: 20%;">HEX CODE</th>
+                <th style="padding: 10px; border: 1px solid #64748B; text-align: left; width: 40%;">PRIMARY USAGE</th>
+            </tr>
+        </thead>
+        
+        <tbody>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #64748B; background-color: #0F172A; color: #F8FAFC; font-weight: bold;">Deep Void</td>
+                <td style="padding: 10px; border: 1px solid #64748B; text-align: center;">
+                    <div style="width: 50px; height: 30px; margin: auto; background-color: #0F172A; border: 1px solid #64748B;"></div>
+                </td>
+                <td style="padding: 10px; border: 1px solid #64748B; text-align: center; background-color: #F8FAFC; color: #0F172A;">#0F172A</td>
+                <td style="padding: 10px; border: 1px solid #64748B; background-color: #0F172A; color: #64748B;">Primary interface background, dark mode, representing Security and Depth.</td>
+            </tr>
+            
+            <tr>
+                <td style="padding: 10px; border: 1px solid #64748B; background-color: #1E293B; color: #3B82F6; font-weight: bold;">Core Blue</td>
+                <td style="padding: 10px; border: 1px solid #64748B; text-align: center;">
+                    <div style="width: 50px; height: 30px; margin: auto; background-color: #3B82F6; border: 1px solid #64748B;"></div>
+                </td>
+                <td style="padding: 10px; border: 1px solid #64748B; text-align: center; background-color: #F8FAFC; color: #0F172A;">#3B82F6</td>
+                <td style="padding: 10px; border: 1px solid #64748B; background-color: #1E293B; color: #F8FAFC;">Logo primary color, main titles, primary buttons (Action and Trust).</td>
+            </tr>
+    
+            <tr>
+                <td style="padding: 10px; border: 1px solid #64748B; background-color: #0F172A; color: #06B6D4; font-weight: bold;">Neon Cyan</td>
+                <td style="padding: 10px; border: 1px solid #64748B; text-align: center;">
+                    <div style="width: 50px; height: 30px; margin: auto; background-color: #06B6D4; border: 1px solid #64748B;"></div>
+                </td>
+                <td style="padding: 10px; border: 1px solid #64748B; text-align: center; background-color: #F8FAFC; color: #0F172A;">#06B6D4</td>
+                <td style="padding: 10px; border: 1px solid #64748B; background-color: #0F172A; color: #F8FAFC;">Highlighting AI elements (the circle in the logo), links, and innovation points.</td>
+            </tr>
+            
+            <tr>
+                <td style="padding: 10px; border: 1px solid #64748B; background-color: #1E293B; color: #64748B; font-weight: bold;">Tech Steel</td>
+                <td style="padding: 10px; border: 1px solid #64748B; text-align: center;">
+                    <div style="width: 50px; height: 30px; margin: auto; background-color: #64748B; border: 1px solid #64748B;"></div>
+                </td>
+                <td style="padding: 10px; border: 1px solid #64748B; text-align: center; background-color: #F8FAFC; color: #0F172A;">#64748B</td>
+                <td style="padding: 10px; border: 1px solid #64748B; background-color: #1E293B; color: #F8FAFC;">Secondary text, borders, dividers, disabled states.</td>
+            </tr>
+    
+            <tr>
+                <td style="padding: 10px; border: 1px solid #64748B; background-color: #F8FAFC; color: #0F172A; font-weight: bold;">Pure Light</td>
+                <td style="padding: 10px; border: 1px solid #64748B; text-align: center;">
+                    <div style="width: 50px; height: 30px; margin: auto; background-color: #F8FAFC; border: 1px solid #64748B;"></div>
+                </td>
+                <td style="padding: 10px; border: 1px solid #64748B; text-align: center; background-color: #F8FAFC; color: #0F172A;">#F8FAFC</td>
+                <td style="padding: 10px; border: 1px solid #64748B; background-color: #F8FAFC; color: #0F172A;">Primary text on dark backgrounds, backgrounds for print documentation.</td>
+            </tr>
+    
+            <tr>
+                <td style="padding: 10px; border: 1px solid #64748B; background-color: #0F172A; color: #10B981; font-weight: bold;">Active Green</td>
+                <td style="padding: 10px; border: 1px solid #64748B; text-align: center;">
+                    <div style="width: 50px; height: 30px; margin: auto; background-color: #10B981; border: 1px solid #64748B;"></div>
+                </td>
+                <td style="padding: 10px; border: 1px solid #64748B; text-align: center; background-color: #F8FAFC; color: #0F172A;">#10B981</td>
+                <td style="padding: 10px; border: 1px solid #64748B; background-color: #0F172A; color: #F8FAFC;">Status indicators (Online, Success, Complete) and positive feedback.</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
