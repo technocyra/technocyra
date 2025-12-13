@@ -8,7 +8,7 @@
 
 ## 👨‍💻 **Professional Profile**
 
-I am a passionate self-taught Software Developer and Entrepreneur dedicated to driving digital transformation in LATAM. As the **Founder and CEO of <a href="https://technocyra.com" target="_blank">TECHNOCYRA</a>**, I lead the development of secure, efficient, and high-value software solutions, love developing clean, secure and user-centric software and experimenting with the latest tech trends.
+I am a passionate self-taught Software Developer and Entrepreneur dedicated to driving digital transformation in LATAM. As the **Founder and CEO of <a href="https://technocyra.com" target="_blank">TECHNOCYRA**, I lead the development of secure, efficient, and high-value software solutions, love developing clean, secure and user-centric software and experimenting with the latest tech trends.
 
 I am committed to lifelong learning, sharing knowledge, and collaborating on exciting projects that make a difference. My work is grounded in **Ethics, Innovation, and Professional Excellence**. I specialize in architecting robust systems that guarantee data protection and operational resilience.
 
