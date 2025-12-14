@@ -2,7 +2,7 @@
 
 # Carlos Andrés Rodríguez Ruiz
 
-**Founder & CEO at TECHNOCYRA 🖥️ Software Developer | 🕵🏻 FullStack | 🧑‍🎨 UI/UX | 📄 HTML | 🎨 CSS | 📜 JS | 🏛️ DataBases | 🐍 Python | 🔒 Cibersecurity | 🪄 A.I. | 🐧Linux**
+**Founder & CEO at TECHNOCYRA 🖥️ Software Developer | 🕵🏻 FullStack | 🧑‍🎨 UI/UX | 📄 HTML | 🎨 CSS | 📜 JS | 🏛️ DataBases | 🐍 Python | 🔒 Cibersecurity | 🪄 A.I. | 🐧Linux | 🎯 Digital Marketing**
 
 ---
 
@@ -23,7 +23,7 @@ I am committed to lifelong learning, sharing knowledge, and collaborating on exc
 - **Web Technologies:** 🌐 HTML5 | 🎨 CSS3 | ⚛️ React/Node.js
 - **Design & UX:** 🎨 Inkscape | 🖌️ Figma | 🧑‍🎨 UI/UX Architecture
 - **Infrastructure:** 🔗 Git & GitHub | ☁️ Cloud Solutions | 🔒 Cybersecurity Ops | 💻 VS Code | 🗂️ Google Workspace
-- **Innovation:** 🤖 Generative AI | 🧠 Prompt Engineering
+- **Innovation:** 🤖 Generative AI | 🧠 Prompt Engineering | 🎯 Digital Marketing
 
 ---
 
