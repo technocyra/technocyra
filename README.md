@@ -1,18 +1,8 @@
 # Carlos Andrés Rodríguez Ruiz
 
-🖥️ Software Developer | 🕵🏻 FullStack | 🧑‍🎨 UI/UX | 📄 HTML | 🎨 CSS | 📜 JS | 🏛️ DataBases | 🐍 Python | 🔒 Cibersecurity | 🪄 A.I. | 🐧Linux | 🎯 Digital Marketing**
+🖥️ Software Developer | 🕵🏻 FullStack
 
 ---
-
-## 👨‍💻 **Professional Profile**
-
-I am a passionate self-taught Software Developer and Entrepreneur dedicated to driving digital transformation in LATAM. I love the development of secure, efficient, and high-value software solutions, love developing clean, secure and user-centric software and experimenting with the latest tech trends.
-
-I am committed to lifelong learning, sharing knowledge, and collaborating on exciting projects that make a difference. My work is grounded in **Ethics, Innovation, and Professional Excellence**. I specialize in architecting robust systems that guarantee data protection and operational resilience.
-
----
-
-## 🚀 **Skills**
 
 ## 🚀 **Technological Stack**
 
@@ -21,6 +11,14 @@ I am committed to lifelong learning, sharing knowledge, and collaborating on exc
 - **Design & UX:** 🎨 Inkscape | 🖌️ Figma | 🧑‍🎨 UI/UX Architecture
 - **Infrastructure:** 🔗 Git & GitHub | ☁️ Cloud Solutions | 🔒 Cybersecurity Ops | 💻 VS Code | 🗂️ Google Workspace
 - **Innovation:** 🤖 Generative AI | 🧠 Prompt Engineering | 🎯 Digital Marketing
+
+---
+
+### 👨‍💻 **Professional Profile**
+
+I am a passionate self-taught Software Developer and Entrepreneur dedicated to driving digital transformation in LATAM. I love the development of secure, efficient, and high-value software solutions, love developing clean, secure and user-centric software and experimenting with the latest tech trends.
+
+I am committed to lifelong learning, sharing knowledge, and collaborating on exciting projects that make a difference. My work is grounded in **Ethics, Innovation, and Professional Excellence**. I specialize in architecting robust systems that guarantee data protection and operational resilience.
 
 ---
 
