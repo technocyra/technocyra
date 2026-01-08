@@ -1,14 +1,12 @@
-![Banner](/assets/main-banner.png)
-
 # Carlos Andrés Rodríguez Ruiz
 
-**Founder & CEO at TECHNOCYRA 🖥️ Software Developer | 🕵🏻 FullStack | 🧑‍🎨 UI/UX | 📄 HTML | 🎨 CSS | 📜 JS | 🏛️ DataBases | 🐍 Python | 🔒 Cibersecurity | 🪄 A.I. | 🐧Linux | 🎯 Digital Marketing**
+🖥️ Software Developer | 🕵🏻 FullStack | 🧑‍🎨 UI/UX | 📄 HTML | 🎨 CSS | 📜 JS | 🏛️ DataBases | 🐍 Python | 🔒 Cibersecurity | 🪄 A.I. | 🐧Linux | 🎯 Digital Marketing**
 
 ---
 
 ## 👨‍💻 **Professional Profile**
 
-I am a passionate self-taught Software Developer and Entrepreneur dedicated to driving digital transformation in LATAM. As the **Founder and CEO of <a href="https://technocyra.com" target="_blank">TECHNOCYRA**, I lead the development of secure, efficient, and high-value software solutions, love developing clean, secure and user-centric software and experimenting with the latest tech trends.
+I am a passionate self-taught Software Developer and Entrepreneur dedicated to driving digital transformation in LATAM. I love the development of secure, efficient, and high-value software solutions, love developing clean, secure and user-centric software and experimenting with the latest tech trends.
 
 I am committed to lifelong learning, sharing knowledge, and collaborating on exciting projects that make a difference. My work is grounded in **Ethics, Innovation, and Professional Excellence**. I specialize in architecting robust systems that guarantee data protection and operational resilience.
 
@@ -18,8 +16,7 @@ I am committed to lifelong learning, sharing knowledge, and collaborating on exc
 
 ## 🚀 **Technological Stack**
 
-- **Leadership:** 🏛️ CEO & Founder | 🏃 Agile/SCRUM | 💼 Business Strategy | 🧑‍🏫 English C1
-- **Core:** 🐧 Linux | 🐍 Python | 📜 JavaScript | - 📝 Markdown
+- **Core:** 🐧 Linux | 🐍 Python | 📜 JavaScript | - 📝 Markdown | 🏃 Agile/SCRUM | 🧑‍🏫 English C1
 - **Web Technologies:** 🌐 HTML5 | 🎨 CSS3 | ⚛️ React/Node.js
 - **Design & UX:** 🎨 Inkscape | 🖌️ Figma | 🧑‍🎨 UI/UX Architecture
 - **Infrastructure:** 🔗 Git & GitHub | ☁️ Cloud Solutions | 🔒 Cybersecurity Ops | 💻 VS Code | 🗂️ Google Workspace
