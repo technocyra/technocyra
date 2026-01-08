@@ -36,6 +36,7 @@ I am committed to lifelong learning, sharing knowledge, and collaborating on exc
 - 🏅 Cybersecurity Concepts (SENA, 40 hours).
 - 🏅 Software Programming Methodologies (SENA, 40 hours).
 - 🏅 Basic Web Programming Course with HTML, CSS, and JavaScript (Tecnológico de Monterrey, Avanzatech, MinTIC).
+- 🏅 Digital Marketing Through Social Networks (Universidad Distrital Francisco José de Caldas y MinTIC).
 
 ---
 
