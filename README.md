@@ -45,13 +45,17 @@ I’m actively expanding skills in Generative AI, advanced Python, fullstack dev
 
 <ul></ul>
     <li><a href="https://wa.me/573113583866" target="_blank">WhatsApp</a></li>
+    <li><a href="https://t.me./technocyra" target="_blank">Telegram</a></li>
     <li><a href="https://www.facebook.com/profile.php?id=61584983557929" target="_blank">Facebook</a></li>
     <li><a href="https://www.instagram.com/technocyra" target="_blank">Instagram</a></li>
     <li><a href="https://threads.com/@technocyra" target="_blank">Threads</a></li>
     <li><a href="https://x.com/technocyra" target="_blank">Twitter</a></li>
     <li><a href="https://www.linkedin.com/in/technocyra" target="_blank">LinkedIn</a></li>
+    <li><a href="https://discordapp.com/users/1421297545526906891" target="_blank">Discord</a></li>
     <li><a href="https://www.tiktok.com/@technocyra" target="_blank">TikTok</a></li>
     <li><a href="https://app.daily.dev/technocyra" target="_blank">DailyDev</a></li>
+    <li><a href="https://infosec.exchange/@technocyra" target="_blank">Mastodon</a></li>
+    <li><a href="https://www.reddit.com/user/technocyradev" target="_blank">Reddit</a></li>
 </ul>
 
 ---
