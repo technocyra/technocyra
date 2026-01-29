@@ -20,6 +20,8 @@ I am a passionate self-taught Software Developer and Entrepreneur dedicated to d
 
 I am committed to lifelong learning, sharing knowledge, and collaborating on exciting projects that make a difference. My work is grounded in **Ethics, Innovation, and Professional Excellence**. I specialize in architecting robust systems that guarantee data protection and operational resilience.
 
+Founder and CEO at TECHNOCRYA.
+
 ---
 
 ## 📑 **Certifications**
