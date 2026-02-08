@@ -8,7 +8,7 @@
 
 - **Core:** 🐧 Linux | 🐍 Python | 📜 JavaScript | 📝 Markdown | 🏃 Agile/SCRUM | 🧑‍🏫 English C1
 - **Web Technologies:** 🌐 HTML | 🎨 CSS | ⚛️ Frameworks
-- **Design & UX:** 🎨 Inkscape | 🖌️ Figma | 🧑‍🎨 UI/UX Architecture
+- **Design & UX:** 🖌️ Figma | 🧑‍🎨 UI/UX Architecture
 - **Infrastructure:** 🔗 Git & GitHub | ☁️ Cloud Solutions | 🔒 Cybersecurity | 💻 VS Code | 🗂️ Google Workspace
 - **Innovation:** 🤖 Generative AI | 🧠 Prompt Engineering | 🎯 Digital Marketing
 
