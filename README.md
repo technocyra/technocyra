@@ -6,11 +6,25 @@
 
 ## 🚀 **Technological Stack**
 
-- **Core:** 🐧 Linux | 🐍 Python | 📜 JavaScript | 📝 Markdown | 🏃 Agile/SCRUM | 🧑‍🏫 English C1
-- **Web Technologies:** 🌐 HTML | 🎨 CSS | ⚛️ Frameworks
-- **Design & UX:** 🖌️ Figma | 🧑‍🎨 UI/UX Architecture
-- **Infrastructure:** 🔗 Git & GitHub | ☁️ Cloud Solutions | 🔒 Cybersecurity | 💻 VS Code | 🗂️ Google Workspace
-- **Innovation:** 🤖 Generative AI | 🧠 Prompt Engineering | 🎯 Digital Marketing
+# Skills
+
+- Typing.
+- English.
+- A.I., Prompt engineering.
+- Design (UI, UX,  vectorial).
+- HTML.
+- CSS.
+- JS.
+- Python.
+- Linux.
+- Git and GitHub.
+- Google workspace.
+- Google cloud.
+- Digital marketing.
+- Markdown.
+- SCRUM.
+- UML.
+- Cybersecurity.
 
 ---
 
@@ -29,12 +43,13 @@ Founder and CEO at TECHNOCYRA.
 - 🎓 Academic High School Diploma.
 - 🏅 English Does Work (SENA, Levels Beginner to 13, 40 hours each).
 - 🏅 English for IT 1 & 2 by Cisco, Networking Academy, OpenEDG and Avanzatech by MINTIC.
-- 🏅 Introduction to Cybersecurity by Cisco and Networking Academy.
 - 🏅 SCRUM for Software Projects (SENA, 40 hours).
 - 🏅 Cybersecurity Concepts (SENA, 40 hours).
+- 🏅 Introduction to Cybersecurity by Cisco and Networking Academy.
 - 🏅 Software Programming Methodologies (SENA, 40 hours).
 - 🏅 Basic Web Programming Course with HTML, CSS, and JavaScript (Tecnológico de Monterrey, Avanzatech, MinTIC).
 - 🏅 Digital Marketing Through Social Networks (Universidad Distrital Francisco José de Caldas y MinTIC).
+- 🏅 Introduction to Modern A.I. by Cisco and Networking Academy.
 
 ---
 
