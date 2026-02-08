@@ -30,7 +30,6 @@
             <td style="padding: 16px; font-family: 'Consolas', 'Monaco', monospace; color: #00B4D8;">#0A192F</td>
             <td style="padding: 16px; font-family: 'Consolas', 'Monaco', monospace; color: #9CA3AF;">10, 25, 47</td>
         </tr>
-
         <!-- Kinetic Blue -->
         <tr style="border-bottom: 1px solid #374151;">
             <td style="padding: 16px;">
@@ -43,7 +42,6 @@
             <td style="padding: 16px; font-family: 'Consolas', 'Monaco', monospace; color: #00B4D8;">#00B4D8</td>
             <td style="padding: 16px; font-family: 'Consolas', 'Monaco', monospace; color: #9CA3AF;">0, 180, 216</td>
         </tr>
-
         <!-- Titanium Slate -->
         <tr style="border-bottom: 1px solid #374151;">
             <td style="padding: 16px;">
@@ -56,7 +54,6 @@
             <td style="padding: 16px; font-family: 'Consolas', 'Monaco', monospace; color: #00B4D8;">#1F2937</td>
             <td style="padding: 16px; font-family: 'Consolas', 'Monaco', monospace; color: #9CA3AF;">31, 41, 55</td>
         </tr>
-
         <!-- Neo-Emerald -->
         <tr style="border-bottom: 1px solid #374151;">
             <td style="padding: 16px;">
@@ -69,7 +66,6 @@
             <td style="padding: 16px; font-family: 'Consolas', 'Monaco', monospace; color: #00B4D8;">#10B981</td>
             <td style="padding: 16px; font-family: 'Consolas', 'Monaco', monospace; color: #9CA3AF;">16, 185, 129</td>
         </tr>
-
         <!-- Logic White -->
         <tr>
             <td style="padding: 16px;">
