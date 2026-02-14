@@ -77,9 +77,6 @@
         <a href="https://app.daily.dev/technocyra" target="_blank" style="color: #00B4D8; text-decoration: none; border: 1px solid #00B4D8; padding: 8px 16px; border-radius: 4px;">DailyDev</a>
         <a href="https://www.instagram.com/technocyra" target="_blank" style="color: #00B4D8; text-decoration: none; border: 1px solid #00B4D8; padding: 8px 16px; border-radius: 4px;">Instagram</a>
     </div>
-    <p style="margin-top: 30px; font-size: 0.8rem; color: #6B7280; font-family: 'JetBrains Mono', monospace;">
-        &copy; 2026 TECHNOCYRA. All Systems Nominal.
-    </p>
 </footer>
 
 </article>
