@@ -1,77 +1,98 @@
+![TECHNOCYRA CEO Banner](https://i.postimg.cc/nLThGctR/main-dev-banner.png)
+
 # Carlos Andrés Rodríguez Ruiz
-
-🖥️ Software Developer | 🕵🏻 FullStack
-
----
-
-## 🚀 **Technological Stack**
-
-# Skills
-
-- Typing.
-- English C1.
-- A.I., Prompt engineering.
-- Design (UI, UX,  vectorial) Figma, Inkscape, Gimp.
-- HTML.
-- CSS.
-- JS.
-- Python.
-- Linux systems.
-- Git and GitHub.
-- Google workspace.
-- Google cloud.
-- Digital marketing.
-- Markdown.
-- SCRUM.
-- UML.
-- Cybersecurity.
+### 🏛️ Founder & CEO at TECHNOCYRA | 🖥️ Software Architect | 🕵🏻 FullStack Developer
 
 ---
 
 ### 👨‍💻 **Professional Profile**
 
-I am a passionate self-taught Software Developer and Entrepreneur dedicated to driving digital transformation in LATAM. I love the development of secure, efficient, and high-value software solutions, love developing clean, secure and user-centric software and experimenting with the latest tech trends.
+I am a Software Developer and Entrepreneur dedicated to defining the standard for secure and scalable digital ecosystems in LATAM. My focus is on **Ethical Engineering, Innovation, and Productive Sovereignty**.
 
-I am committed to lifelong learning, sharing knowledge, and collaborating on exciting projects that make a difference. My work is grounded in **Ethics, Innovation, and Professional Excellence**. I specialize in architecting robust systems that guarantee data protection and operational resilience.
+I specialize in architecting robust systems that guarantee data protection and operational resilience. As the leader of **TECHNOCYRA**, I bridge the gap between complex business problems and systemic technological solutions, leveraging AI, Cybersecurity, and Modern Web Standards.
 
-Founder and CEO at TECHNOCYRA.
+> *"We pursue intelligent development not for novelty, but to solve complex problems with optimized, future-proof logic."*
+
+---
+
+## 🚀 **Technological Stack**
+
+My technical arsenal is designed for **Defense-in-Depth** and **High Availability**.
+
+### **Core Engineering & Systems**
+- **Languages:** Python, JavaScript (ES6+), HTML5, CSS3.
+- **Backend & Cloud:** Google Cloud Platform (GCP), Linux Systems Administration.
+- **Version Control:** Git, GitHub (Flow & CI/CD concepts).
+
+### **Design & User Experience (UX/UI)**
+- **Tools:** Figma, Inkscape, Gimp, Canva.
+- **Focus:** Vectorial Design, Prototyping, Accessibility-first interfaces.
+
+### **Emerging Tech & Methodology**
+- **Artificial Intelligence:** Prompt Engineering, Generative AI Integration.
+- **Methodologies:** SCRUM (Agile), UML (System Modeling).
+- **Security:** Cybersecurity Fundamentals, Ethical Data Handling.
+
+### **Operational Skills**
+- **Communication:** English C1 (Advanced), Technical Writing (Markdown).
+- **Business:** Digital Marketing, Google Workspace, Entrepreneurship.
 
 ---
 
 ## 📑 **Certifications**
 
+**Academic & Professional Foundations**
 - 🎓 Academic High School Diploma.
-- 🏅 English Does Work (SENA, Levels Beginner to 13, 40 hours each).
-- 🏅 English for IT 1 & 2 by Cisco, Networking Academy, OpenEDG and Avanzatech by MINTIC.
-- 🏅 SCRUM for Software Projects (SENA, 40 hours).
-- 🏅 Cybersecurity Concepts (SENA, 40 hours).
-- 🏅 Introduction to Cybersecurity by Cisco and Networking Academy.
-- 🏅 Software Programming Methodologies (SENA, 40 hours).
-- 🏅 Basic Web Programming Course with HTML, CSS, and JavaScript (Tecnológico de Monterrey, Avanzatech, MinTIC).
-- 🏅 Digital Marketing Through Social Networks (Universidad Distrital Francisco José de Caldas y MinTIC).
-- 🏅 Introduction to Modern A.I. by Cisco and Networking Academy.
+- 🏅 **Software Programming Methodologies** (SENA).
+- 🏅 **SCRUM for Software Projects** (SENA).
+
+**Cybersecurity & AI**
+- 🏅 **Introduction to Cybersecurity** (Cisco Networking Academy).
+- 🏅 **Cybersecurity Concepts** (SENA).
+- 🏅 **Introduction to Modern A.I.** (Cisco Networking Academy).
+
+**Development & Specialized Training**
+- 🏅 **Basic Web Programming: HTML, CSS, JS** (Tecnológico de Monterrey/MinTIC).
+- 🏅 **English for IT 1 & 2** (Cisco/OpenEDG).
+- 🏅 **English Does Work** (SENA, Levels Beginner–13).
+- 🏅 **Digital Marketing Through Social Networks** (Univ. Distrital/MinTIC).
 
 ---
 
-## 📚 **Current Learning**
+## 📚 **Current R&D**
 
-I’m actively expanding skills in Generative AI, advanced Python, fullstack development, UX research, digital product design and cibersecurity.
+Aligned with TECHNOCYRA's 2030 Vision, I am actively expanding my capabilities in:
+- **Generative AI Systems** for business automation.
+- **Advanced Python** for data analysis and backend logic.
+- **Cybersecurity Operations** for corporate infrastructure defense.
 
 ---
 
 ## 🔗 **Connect with Me**
 
-<ul></ul>
-    <li><a href="https://wa.me/573113583866" target="_blank">WhatsApp</a></li>
+Let's discuss how we can engineer the future of your business.
+
+<p align="left">
+  <a href="https://wa.me/573113583866" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/technocyra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/technocyra" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter" />
+  </a>
+  <a href="https://app.daily.dev/technocyra" target="_blank">
+    <img src="https://img.shields.io/badge/Daily.dev-00D4D8?style=for-the-badge&logo=daily.dev&logoColor=black" alt="Daily.dev" />
+  </a>
+</p>
+
+<ul>
     <li><a href="https://www.facebook.com/profile.php?id=61584983557929" target="_blank">Facebook</a></li>
     <li><a href="https://www.instagram.com/technocyra" target="_blank">Instagram</a></li>
-    <li><a href="https://x.com/technocyra" target="_blank">Twitter</a></li>
-    <li><a href="https://www.linkedin.com/in/technocyra" target="_blank">LinkedIn</a></li>
-    <li><a href="https://app.daily.dev/technocyra" target="_blank">DailyDev</a></li>
     <li><a href="https://discordapp.com/users/1421297545526906891" target="_blank">Discord</a></li>
     <li><a href="https://www.reddit.com/user/technocyradev" target="_blank">Reddit</a></li>
     <li><a href="https://t.me./technocyra" target="_blank">Telegram</a></li>
     <li><a href="https://mastodon.social/@technocyra" target="_blank">Mastodon</a></li>
+    <li><a href="https://bsky.app/profile/technocyra.bsky.social" target="_blank">Bluesky</a></li>
 </ul>
-
----
