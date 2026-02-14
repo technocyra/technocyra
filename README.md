@@ -9,14 +9,14 @@
 # Skills
 
 - Typing.
-- English.
+- English C1.
 - A.I., Prompt engineering.
-- Design (UI, UX,  vectorial).
+- Design (UI, UX,  vectorial) Figma, Inkscape, Gimp.
 - HTML.
 - CSS.
 - JS.
 - Python.
-- Linux.
+- Linux systems.
 - Git and GitHub.
 - Google workspace.
 - Google cloud.

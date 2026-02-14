@@ -1,10 +1,9 @@
 # Color Palette
 <!-- Header Section -->
 <div style="padding: 40px; background-color: #0A192F; font-family: 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif; color: #F9FAFB; max-width: 1000px; margin: 0 auto; margin-bottom: 20px;">
-    <h2 style="border-bottom: 2px solid #00B4D8; padding-bottom: 10px; font-weight: 600; letter-spacing: 0.5px;">TECHNOCYRA // UI Color System</h2>
+    <h2 style="color: #F9FAFB; border-bottom: 2px solid #00B4D8; padding-bottom: 10px; font-weight: 600; letter-spacing: 0.5px;">TECHNOCYRA // UI Color System</h2>
     <p style="color: #9CA3AF; font-size: 0.9rem;">Systemic visualization of chromatic variables for digital interfaces.</p>
 </div>
-
 <!-- Table Container -->
 <div style="max-width: 1000px; margin: 0 auto; background-color: #1F2937; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);">
     <table style="width: 100%; border-collapse: collapse; text-align: left;">
