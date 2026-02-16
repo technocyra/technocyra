@@ -72,27 +72,63 @@ I am actively expanding my capabilities in:
 
 Let's discuss how we can engineer the future of software.
 
-<p align="left">
-  <a href="https://wa.me/573113583866" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.linkedin.com/in/technocyra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/technocyra" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter" />
-  </a>
-  <a href="https://app.daily.dev/technocyra" target="_blank">
-    <img src="https://img.shields.io/badge/Daily.dev-00D4D8?style=for-the-badge&logo=daily.dev&logoColor=black" alt="Daily.dev" />
-  </a>
+<p>
+<a href="https://wa.me/573113583866" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-green
+" alt="Badge linking to WhatsApp chat" />
+</a>
+<a href="https://www.facebook.com/technocyra.dev" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-Page-blue
+" alt="Badge linking to a Facebook Page" />
+<a href="https://www.instagram.com/technocyra" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Profile-pink
+" alt="Badge linking to an Instagram account" />
+</a>
+<a href="https://x.com/technocyra" target="_blank">
+<img src="https://img.shields.io/badge/X-Profile-black
+" alt="Badge linking to X former Twitter account" />
+</a>
+<a href="https://www.linkedin.com/in/technocyra" target="_blank">
+<img src="https://img.shields.io/badge/LindedIn-Profile-blue
+" alt="Badge linking to LinkedIn profile" />
+</a>
+<a href="https://app.daily.dev/technocyra" target="_blank">
+<img src="https://img.shields.io/badge/DailyDev-Profile-purple
+" alt="Badge linking to Daily.dev app profile" />
+</a>
+<a href="https://github.com/technocyra" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Profile-darkblue
+" alt="Badge linking to GitHub Profile" />
+</a>
+<a href="https://technocyra.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Page-blue
+" alt="Badge linking to a GitHub Page" />
+</a>
+<a href="https://discord.com/channels/1459271989750399078/1459271992069980182" target="_blank">
+<img src="https://img.shields.io/badge/Discord-Channel-red
+" alt="Badge linking to a Discord channel" />
+</a>
+<a href="https://www.reddit.com/user/technocyradev" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-Profile-orange
+" alt="Badge linkin to a Reddit profile" />
+</a>
+<a href="https://web.telegram.org/k/#@technocyrachannel" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-Channel-blue
+" alt="Badge linking to a Telegram Channel" />
+</a>
+<a href="https://mastodon.social/@technocyra" target="_blank">
+<img src="https://img.shields.io/badge/Mastodon-Profile-darkblue
+" alt="Badge linkin to a Mastodon profile" />
+</a>
+<a href="https://bsky.app/profile/technocyra.bsky.social" target="_blank">
+<img src="https://img.shields.io/badge/Bluesky-Profile-lightblue
+" alt="Badge linking to a Bluesky profile" />
+</a>
+<a href="https://technocyra.blogspot.com" target="_blank">
+<img src="https://img.shields.io/badge/Technocyra-Blog-darkorange
+" alt="Badge linking to a blog" />
+<a href="https://www.youtube.com/@Technocyra" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-Channel-red
+" alt="Badge linking to a YouTube Channel" />
+</a>
 </p>
-
-<ul>
-    <li><a href="https://www.facebook.com/profile.php?id=61584983557929" target="_blank">Facebook</a></li>
-    <li><a href="https://www.instagram.com/technocyra" target="_blank">Instagram</a></li>
-    <li><a href="https://discordapp.com/users/1421297545526906891" target="_blank">Discord</a></li>
-    <li><a href="https://www.reddit.com/user/technocyradev" target="_blank">Reddit</a></li>
-    <li><a href="https://t.me./technocyra" target="_blank">Telegram</a></li>
-    <li><a href="https://mastodon.social/@technocyra" target="_blank">Mastodon</a></li>
-    <li><a href="https://bsky.app/profile/technocyra.bsky.social" target="_blank">Bluesky</a></li>
-</ul>
