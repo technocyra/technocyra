@@ -7,7 +7,7 @@
 
 ### 👨‍💻 **Professional Profile**
 
-I am a Software Developer dedicated to defining the standard for secure and scalable digital ecosystems in LATAM. My focus is on **Ethical Engineering, Innovation, and Productive Sovereignty**.
+I am a Software Developer dedicated to defining the standard for secure and scalable digital ecosystems. My focus is on **Ethical Engineering, Innovation, and Productive Sovereignty**.
 
 I specialize in architecting robust systems that guarantee data protection and operational resilience. I bridge the gap between complex business problems and systemic technological solutions, leveraging AI, Cybersecurity, and Modern Web Standards.
 

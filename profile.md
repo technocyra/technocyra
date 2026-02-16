@@ -16,7 +16,7 @@
 <section style="margin-bottom: 40px;">
     <h2 style="color: #00B4D8; border-left: 4px solid #10B981; padding-left: 10px; font-family: 'Roboto', sans-serif;">👨‍💻 Professional Profile</h2>
     <p style="font-family: 'Roboto', sans-serif; color: #D1D5DB; text-align: justify;">
-        I am a passionate self-taught Software Developer dedicated to driving digital transformation in LATAM. I focus on the development of secure, efficient, and high-value software solutions, prioritizing clean architecture and user-centric design.
+        I am a passionate self-taught Software Developer dedicated to driving digital transformation. I focus on the development of secure, efficient, and high-value software solutions, prioritizing clean architecture and user-centric design.
     </p>
     <p style="font-family: 'Roboto', sans-serif; color: #D1D5DB; text-align: justify;">
         My work is grounded in <strong>Ethics, Innovation, and Professional Excellence</strong>. I specialize in architecting robust systems that guarantee data protection and operational resilience. I am committed to lifelong learning and sharing knowledge to build the future of the region.
