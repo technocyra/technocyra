@@ -1,17 +1,17 @@
 ![TECHNOCYRA CEO Banner](https://i.postimg.cc/fTxCW6s7/main-dev-banner.png)
 
 # Carlos Andrés Rodríguez Ruiz
-### 🏛️ Founder & CEO at TECHNOCYRA | 🖥️ Software Architect | 🕵🏻 FullStack Developer
+### 🖥️ Software Architect | 🕵🏻 FullStack Developer
 
 ---
 
 ### 👨‍💻 **Professional Profile**
 
-I am a Software Developer and Entrepreneur dedicated to defining the standard for secure and scalable digital ecosystems in LATAM. My focus is on **Ethical Engineering, Innovation, and Productive Sovereignty**.
+I am a Software Developer dedicated to defining the standard for secure and scalable digital ecosystems in LATAM. My focus is on **Ethical Engineering, Innovation, and Productive Sovereignty**.
 
-I specialize in architecting robust systems that guarantee data protection and operational resilience. As the leader of **TECHNOCYRA**, I bridge the gap between complex business problems and systemic technological solutions, leveraging AI, Cybersecurity, and Modern Web Standards.
+I specialize in architecting robust systems that guarantee data protection and operational resilience. I bridge the gap between complex business problems and systemic technological solutions, leveraging AI, Cybersecurity, and Modern Web Standards.
 
-> *"We pursue intelligent development not for novelty, but to solve complex problems with optimized, future-proof logic."*
+> *"I pursue intelligent development not for novelty, but to solve complex problems with optimized, future-proof logic."*
 
 ---
 
@@ -25,7 +25,7 @@ My technical arsenal is designed for **Defense-in-Depth** and **High Availabilit
 - **Version Control:** Git, GitHub (Flow & CI/CD concepts).
 
 ### **Design & User Experience (UX/UI)**
-- **Tools:** Figma, Inkscape, Gimp, Canva.
+- **Tools:** Figma, Inkscape, Canva.
 - **Focus:** Vectorial Design, Prototyping, Accessibility-first interfaces.
 
 ### **Emerging Tech & Methodology**
@@ -35,7 +35,7 @@ My technical arsenal is designed for **Defense-in-Depth** and **High Availabilit
 
 ### **Operational Skills**
 - **Communication:** English C1 (Advanced), Technical Writing (Markdown).
-- **Business:** Digital Marketing, Google Workspace, Entrepreneurship.
+- **Business:** Digital Marketing, Google Workspace.
 
 ---
 
@@ -61,7 +61,7 @@ My technical arsenal is designed for **Defense-in-Depth** and **High Availabilit
 
 ## 📚 **Current R&D**
 
-Aligned with TECHNOCYRA's 2030 Vision, I am actively expanding my capabilities in:
+I am actively expanding my capabilities in:
 - **Generative AI Systems** for business automation.
 - **Advanced Python** for data analysis and backend logic.
 - **Cybersecurity Operations** for corporate infrastructure defense.
@@ -70,7 +70,7 @@ Aligned with TECHNOCYRA's 2030 Vision, I am actively expanding my capabilities i
 
 ## 🔗 **Connect with Me**
 
-Let's discuss how we can engineer the future of your business.
+Let's discuss how we can engineer the future of software.
 
 <p align="left">
   <a href="https://wa.me/573113583866" target="_blank">
