@@ -21,7 +21,7 @@ My technical arsenal is designed for **Defense-in-Depth** and **High Availabilit
 
 ### **Core Engineering & Systems**
 - **Languages:** Python, JavaScript, HTML5, CSS3.
-- **Backend & Cloud:** Google Cloud Platform (GCP), Linux Systems Administration.
+- **Backend & Cloud:** Google Cloud Platform, Linux Systems Administration.
 - **Version Control:** Git, GitHub.
 
 ### **Design & User Experience (UX/UI)**
