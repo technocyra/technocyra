@@ -34,7 +34,7 @@ My work is grounded in <strong>Ethics, Innovation, and Professional Excellence</
     <li style="color: #F9FAFB;">🔹 Git & GitHub</li>
     <li style="color: #F9FAFB;">🔹 Google Cloud & Workspace</li>
     <li style="color: #F9FAFB;">🔹 A.I. & Prompt Engineering</li>
-    <li style="color: #F9FAFB;">🔹 UI/UX Design (Figma, Inkscape)</li>
+    <li style="color: #F9FAFB;">🔹 UI/UX Design (Figma, Inkscape, Canva)</li>
     <li style="color: #F9FAFB;">🔹 Cybersecurity Fundamentals</li>
     <li style="color: #F9FAFB;">🔹 SCRUM & UML</li>
     <li style="color: #F9FAFB;">🔹 English C1</li>

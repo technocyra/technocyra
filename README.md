@@ -20,21 +20,20 @@ I specialize in architecting robust systems that guarantee data protection and o
 My technical arsenal is designed for **Defense-in-Depth** and **High Availability**.
 
 ### **Core Engineering & Systems**
-- **Languages:** Python, JavaScript (ES6+), HTML5, CSS3.
+- **Languages:** Python, JavaScript, HTML5, CSS3.
 - **Backend & Cloud:** Google Cloud Platform (GCP), Linux Systems Administration.
-- **Version Control:** Git, GitHub (Flow & CI/CD concepts).
+- **Version Control:** Git, GitHub.
 
 ### **Design & User Experience (UX/UI)**
 - **Tools:** Figma, Inkscape, Canva.
-- **Focus:** Vectorial Design, Prototyping, Accessibility-first interfaces.
 
 ### **Emerging Tech & Methodology**
 - **Artificial Intelligence:** Prompt Engineering, Generative AI Integration.
-- **Methodologies:** SCRUM (Agile), UML (System Modeling).
+- **Methodologies:** SCRUM, UML.
 - **Security:** Cybersecurity Fundamentals, Ethical Data Handling.
 
 ### **Operational Skills**
-- **Communication:** English C1 (Advanced), Technical Writing (Markdown).
+- **Communication:** English C1, Technical Writing (Markdown).
 - **Business:** Digital Marketing, Google Workspace.
 
 ---
@@ -42,7 +41,7 @@ My technical arsenal is designed for **Defense-in-Depth** and **High Availabilit
 ## 📑 **Certifications**
 
 **Academic & Professional Foundations**
-- 🎓 Academic High School Diploma.
+- 🎓 **Academic High School Diploma**.
 - 🏅 **Software Programming Methodologies** (SENA).
 - 🏅 **SCRUM for Software Projects** (SENA).
 
