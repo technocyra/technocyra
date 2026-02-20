@@ -88,7 +88,7 @@ Actively expanding skills in <span style="color: #10B981;">Generative AI</span>,
 " alt="Badge linking to X former Twitter account" />
 </a>
 <a href="https://www.linkedin.com/in/technocyra" target="_blank">
-<img src="https://img.shields.io/badge/LindedIn-Profile-blue
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue
 " alt="Badge linking to LinkedIn profile" />
 </a>
 <a href="https://app.daily.dev/technocyra" target="_blank">
