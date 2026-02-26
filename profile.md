@@ -7,9 +7,9 @@
     <img src="https://i.postimg.cc/fTxCW6s7/main-dev-banner.png" alt="Technocyra CEO banner">
 </div>
 <h1 style="color: #F9FAFB; font-size: 2.5rem; margin: 0;">Carlos Andrés Rodríguez Ruiz</h1>
-<p style="color: #00B4D8; font-size: 1.2rem; margin-top: 10px; font-weight: 500;">
+<h2 style="color: #00B4D8; font-size: 1.2rem; margin-top: 10px; font-weight: 500;">
 🕵🏻 FullStack Software Architect and Developer 🖥️
-</p>
+</h2>
 </header>
 
 <!-- PROFILE SECTION -->
