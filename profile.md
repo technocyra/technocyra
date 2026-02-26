@@ -32,8 +32,8 @@ My work is grounded in <strong>Ethics, Innovation, and Professional Excellence</
     <li style="color: #F9FAFB;">🔹 HTML & CSS</li>
     <li style="color: #F9FAFB;">🔹 Linux Systems</li>
     <li style="color: #F9FAFB;">🔹 Git & GitHub</li>
-    <li style="color: #F9FAFB;">🔹 Google Cloud & Workspace</li>
-    <li style="color: #F9FAFB;">🔹 A.I. & Prompt Engineering</li>
+    <li style="color: #F9FAFB;">🔹 Google Workspace</li>
+    <li style="color: #F9FAFB;">🔹 Generative A.I.</li>
     <li style="color: #F9FAFB;">🔹 UI/UX Design (Figma, Canva)</li>
     <li style="color: #F9FAFB;">🔹 Cybersecurity Fundamentals</li>
     <li style="color: #F9FAFB;">🔹 SCRUM & UML</li>
