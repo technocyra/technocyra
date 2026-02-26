@@ -1,7 +1,7 @@
 ![TECHNOCYRA CEO Banner](https://i.postimg.cc/fTxCW6s7/main-dev-banner.png)
 
 # Carlos Andrés Rodríguez Ruiz
-### 🖥️ Software Architect | 🕵🏻 FullStack Developer
+###  🕵🏻 FullStack Software Architect and Developer 🖥️
 
 ---
 

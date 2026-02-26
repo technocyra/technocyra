@@ -8,7 +8,7 @@
 </div>
 <h1 style="color: #F9FAFB; font-size: 2.5rem; margin: 0;">Carlos Andrés Rodríguez Ruiz</h1>
 <p style="color: #00B4D8; font-size: 1.2rem; margin-top: 10px; font-weight: 500;">
-🖥️ Software Developer | 🕵🏻 FullStack
+🕵🏻 FullStack Software Architect and Developer 🖥️
 </p>
 </header>
 
