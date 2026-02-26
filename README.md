@@ -20,21 +20,21 @@ I specialize in architecting robust systems that guarantee data protection and o
 My technical arsenal is designed for **Defense-in-Depth** and **High Availability**.
 
 ### **Core Engineering & Systems**
-- **Languages:** Python, JavaScript, HTML5, CSS3.
-- **Backend & Cloud:** Google Cloud Platform, Linux Systems Administration.
-- **Version Control:** Git, GitHub.
+- **Languages:** Python | JavaScript | HTML5 | CSS3.
+- **Backend & Cloud:** Google Cloud Platform | Linux Systems Administration.
+- **Version Control:** Git | GitHub.
 
 ### **Design & User Experience (UX/UI)**
-- **Tools:** Figma, Inkscape, Canva.
+- **Tools:** Figma | Canva.
 
 ### **Emerging Tech & Methodology**
-- **Artificial Intelligence:** Prompt Engineering, Generative AI Integration.
-- **Methodologies:** SCRUM, UML.
-- **Security:** Cybersecurity Fundamentals, Ethical Data Handling.
+- **Artificial Intelligence:** Prompt Engineering | Generative AI Integration.
+- **Methodologies:** SCRUM | UML.
+- **Security:** Cybersecurity Fundamentals | Ethical Data Handling.
 
 ### **Operational Skills**
-- **Communication:** English C1, Technical Writing (Markdown).
-- **Business:** Digital Marketing, Google Workspace.
+- **Communication:** English C1 | Technical Writing (Markdown).
+- **Business:** Digital Marketing | Google Workspace.
 
 ---
 
