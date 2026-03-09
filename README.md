@@ -45,16 +45,16 @@ Actively expanding skills in Generative AI, advanced Python, fullstack developme
 
 Let's discuss how we can engineer the future of software.
 
-[![WhatsApp-Chat](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/573113583866)
-[![Facebook-Page](https://img.shields.io/badge/Facebook-Page-blue)](https://www.facebook.com/technocyra.dev)
-[![Instagram-Profile](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/technocyra)
-[![X-Profile](https://img.shields.io/badge/X-Profile-black)](https://x.com/technocyra)
-[![LinkedIn-Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/technocyra)
-[![DailyDev-Profile](https://img.shields.io/badge/DailyDev-Profile-purple)](https://app.daily.dev/technocyra)
 [![GitHub-Profile](https://img.shields.io/badge/GitHub-Profile-darkblue)](https://github.com/technocyra)
 [![GitHub-Page](https://img.shields.io/badge/GitHub-Page-blue)](https://technocyra.github.io/)
+[![WhatsApp-Chat](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/573113583866)
+[![DailyDev-Profile](https://img.shields.io/badge/DailyDev-Profile-purple)](https://app.daily.dev/technocyra)
+[![LinkedIn-Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/technocyra)
 [![Discord-Channel](https://img.shields.io/badge/Discord-Channel-red)](https://discord.com/channels/1459271989750399078/1459271992069980182)
+[![X-Profile](https://img.shields.io/badge/X-Profile-black)](https://x.com/technocyra)
 [![Reddit-Profile](https://img.shields.io/badge/Reddit-Profile-orange)](https://www.reddit.com/user/technocyradev)
+[![Facebook-Page](https://img.shields.io/badge/Facebook-Page-blue)](https://www.facebook.com/technocyra.dev)
+[![Instagram-Profile](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/technocyra)
 [![Telegram-Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://web.telegram.org/k/#@technocyrachannel)
 [![Mastodon-Profile](https://img.shields.io/badge/Mastodon-Profile-darkblue)](https://mastodon.social/@technocyra)
 [![Bluesky-Profile](https://img.shields.io/badge/Bluesky-Profile-lightblue)](https://bsky.app/profile/technocyra.bsky.social)

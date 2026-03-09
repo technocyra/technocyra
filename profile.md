@@ -64,29 +64,6 @@ Actively expanding skills in <span style="color: #10B981;">Generative AI</span>,
 <h3 style="color: #F9FAFB;">🔗 Connect with Me</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
 <p>
-<a href="https://wa.me/573113583866" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-green
-" alt="Badge linking to WhatsApp chat" />
-</a>
-<a href="https://www.facebook.com/technocyra.dev" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-Page-blue
-" alt="Badge linking to a Facebook Page" />
-<a href="https://www.instagram.com/technocyra" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Profile-pink
-" alt="Badge linking to an Instagram account" />
-</a>
-<a href="https://x.com/technocyra" target="_blank">
-<img src="https://img.shields.io/badge/X-Profile-black
-" alt="Badge linking to X former Twitter account" />
-</a>
-<a href="https://www.linkedin.com/in/technocyra" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue
-" alt="Badge linking to LinkedIn profile" />
-</a>
-<a href="https://app.daily.dev/technocyra" target="_blank">
-<img src="https://img.shields.io/badge/DailyDev-Profile-purple
-" alt="Badge linking to Daily.dev app profile" />
-</a>
 <a href="https://github.com/technocyra" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Profile-darkblue
 " alt="Badge linking to GitHub Profile" />
@@ -95,13 +72,36 @@ Actively expanding skills in <span style="color: #10B981;">Generative AI</span>,
 <img src="https://img.shields.io/badge/GitHub-Page-blue
 " alt="Badge linking to a GitHub Page" />
 </a>
+<a href="https://wa.me/573113583866" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-green
+" alt="Badge linking to WhatsApp chat" />
+</a>
+<a href="https://app.daily.dev/technocyra" target="_blank">
+<img src="https://img.shields.io/badge/DailyDev-Profile-purple
+" alt="Badge linking to Daily.dev app profile" />
+</a>
+<a href="https://www.linkedin.com/in/technocyra" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue
+" alt="Badge linking to LinkedIn profile" />
+</a>
 <a href="https://discord.com/channels/1459271989750399078/1459271992069980182" target="_blank">
 <img src="https://img.shields.io/badge/Discord-Channel-red
 " alt="Badge linking to a Discord channel" />
 </a>
+<a href="https://x.com/technocyra" target="_blank">
+<img src="https://img.shields.io/badge/X-Profile-black
+" alt="Badge linking to X former Twitter account" />
+</a>
 <a href="https://www.reddit.com/user/technocyradev" target="_blank">
 <img src="https://img.shields.io/badge/Reddit-Profile-orange
 " alt="Badge linkin to a Reddit profile" />
+</a>
+<a href="https://www.facebook.com/technocyra.dev" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-Page-blue
+" alt="Badge linking to a Facebook Page" />
+<a href="https://www.instagram.com/technocyra" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Profile-pink
+" alt="Badge linking to an Instagram account" />
 </a>
 <a href="https://web.telegram.org/k/#@technocyrachannel" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-Channel-blue
