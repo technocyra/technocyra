@@ -1,7 +1,7 @@
-![TECHNOCYRA CEO Banner](https://i.postimg.cc/fTxCW6s7/main-dev-banner.png)
+![Main Developer Banner](https://i.postimg.cc/fTxCW6s7/main-dev-banner.png)
 
 # Carlos Andrés Rodríguez Ruiz
-###  🕵🏻 FullStack Software Architect and Developer 🖥️
+###  🕵🏻 FullStack Software Developer 🖥️
 
 ---
 
@@ -17,45 +17,23 @@ I specialize in architecting robust systems that guarantee data protection and o
 
 ## 🚀 **Technological Stack**
 
-## My technical arsenal is designed for **Defense-in-Depth** and **High Availability**.
+## My technical arsenal is designed for **Defense-in-Depth** and **High Availability**
 
-- **Communication:** 🇨🇴 Spanish Native | 🇺🇸 English C1
-- **Systems Operation:** 🐧 Linux | Cybersecurity | Google Workspace | Notion | VS Code
-- **Design & UX/UI:** 🎨 Figma | Canva | CSS
-- **Languages:** 🖥️ Python | JavaScript | HTML
-- **Version Control:** 💫 Git | GitHub
-- **Artificial Intelligence:** 🧠 Prompt engineering | Generative A.I.
-- **Methodologies:** 🏃 SCRUM | UML
-- **Business:** 🎯 Digital Marketing
-
----
-
-## 📑 **Certifications**
-
-**Academic & Professional Foundations**
-- 🎓 **Academic High School Diploma**.
-- 🏅 **Software Programming Methodologies** (SENA).
-- 🏅 **SCRUM for Software Projects** (SENA).
-
-**Cybersecurity & AI**
-- 🏅 **Introduction to Cybersecurity** (Cisco Networking Academy).
-- 🏅 **Cybersecurity Concepts** (SENA).
-- 🏅 **Introduction to Modern A.I.** (Cisco Networking Academy).
-
-**Development & Specialized Training**
-- 🏅 **Basic Web Programming: HTML, CSS, JS** (Tecnológico de Monterrey/MinTIC).
-- 🏅 **English for IT 1 & 2** (Cisco/OpenEDG).
-- 🏅 **English Does Work** (SENA, Levels Beginner–13).
-- 🏅 **Digital Marketing Through Social Networks** (Univ. Distrital/MinTIC).
-
----
-
-## 📚 **Current R&D**
-
-I am actively expanding my capabilities in:
-- **Generative AI Systems** for business automation.
-- **Advanced Python** for data analysis and backend logic.
-- **Cybersecurity Operations** for corporate infrastructure defense.
+- 🇨🇴 Native Spanish.
+- 🇺🇸 English C1.
+- 🐧 Linux.
+- 🧰 Google.
+- 📊 UML.
+- 🏃 SCRUM.
+- 🧠 Prompt Engineering.
+- 💫 Git & GitHub.
+- 📑 Markdown.
+- 🏛️ HTML.
+- 🖌️ CSS.
+- 🪄 JavaScript.
+- 🐍 Python.
+- 🎯 Digital Marketing.
+- 🔒 Cybersecurity.
 
 ---
 
