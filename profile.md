@@ -21,6 +21,10 @@ I am a passionate self-taught Software Developer dedicated to driving digital tr
 <p style="font-family: 'Roboto', sans-serif; color: #D1D5DB; text-align: justify;">
 My work is grounded in Ethics, Innovation, and Professional Excellence. I specialize in architecting robust systems that guarantee data protection and operational resilience. I am committed to lifelong learning and sharing knowledge to build the future of the region.
 </p>
+<blockquote>
+        <p>"I pursue intelligent development not for novelty, but to solve complex problems with optimized, future-proof logic."
+        </p>
+    </blockquote>
 </section>
 
 <!-- SKILLS SECTION -->

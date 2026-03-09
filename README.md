@@ -1,7 +1,7 @@
 ![Main Developer Banner](https://i.postimg.cc/fTxCW6s7/main-dev-banner.png)
 
 # Carlos Andrés Rodríguez Ruiz
-###  🕵🏻 FullStack Software Developer 🖥️
+##  🕵🏻 FullStack Software Developer 🖥️
 
 ---
 
@@ -15,9 +15,9 @@ I specialize in architecting robust systems that guarantee data protection and o
 
 ---
 
-## 🚀 **Technological Stack**
+### 🚀 **Technological Stack**
 
-## My technical arsenal is designed for **Defense-in-Depth** and **High Availability**
+#### My technical arsenal is designed for **Defense-in-Depth** and **High Availability**
 
 - 🇨🇴 Native Spanish.
 - 🇺🇸 English C1.
@@ -36,6 +36,10 @@ I specialize in architecting robust systems that guarantee data protection and o
 - 🔒 Cybersecurity.
 
 ---
+
+### 📚 Current Learning
+
+Actively expanding skills in Generative AI, advanced Python, fullstack development, UX research, digital product design, and cybersecurity.
 
 ## 🔗 **Connect with Me**
 
