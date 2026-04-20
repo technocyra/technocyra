@@ -51,8 +51,6 @@ I do not just write software — I craft solutions, iterate on ideas, and stay a
 [![X-Profile](https://img.shields.io/badge/X-Profile-black)](https://x.com/technocyra)
 [![Reddit-Profile](https://img.shields.io/badge/Reddit-Profile-orange)](https://www.reddit.com/user/technocyradev)
 [![Facebook-Page](https://img.shields.io/badge/Facebook-Page-blue)](https://www.facebook.com/technocyra.dev)
-[![Instagram-Profile](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/technocyra)
-[![Telegram-Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://web.telegram.org/k/#@technocyrachannel)
 [![Mastodon-Profile](https://img.shields.io/badge/Mastodon-Profile-darkblue)](https://mastodon.social/@technocyra)
 [![Bluesky-Profile](https://img.shields.io/badge/Bluesky-Profile-lightblue)](https://bsky.app/profile/technocyra.bsky.social)
 [![Technocyra-Blog](https://img.shields.io/badge/Technocyra-Blog-darkorange)](https://technocyra.blogspot.com)
