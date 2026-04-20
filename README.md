@@ -42,7 +42,6 @@ I do not just write software — I craft solutions, iterate on ideas, and stay a
 
 ## ◉ Connect
 
-[![GitHub-Profile](https://img.shields.io/badge/GitHub-Profile-darkblue)](https://github.com/technocyra)
 [![GitHub-Page](https://img.shields.io/badge/GitHub-Page-blue)](https://technocyra.github.io/)
 [![WhatsApp-Chat](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/573113583866)
 [![DailyDev-Profile](https://img.shields.io/badge/DailyDev-Profile-purple)](https://app.daily.dev/technocyra)
