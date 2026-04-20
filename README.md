@@ -1,4 +1,4 @@
-![Carlos Andrés Rodríguez Ruiz](https://github.com/technocyra.png)
+![Carlos Andrés Rodríguez Ruiz](https://i.postimg.cc/7hfFkQ7d/profile-photo.png)
 
 # Carlos Andrés Rodríguez Ruiz
 ### Full Stack Developer · Entrepreneur · Perpetual Learner
